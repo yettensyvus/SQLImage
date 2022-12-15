@@ -1,0 +1,11 @@
+C:\Users\Aleksandr Straton\source\repos\SQLImage\SQLImage\bin\Debug\SQLImage.exe.config
+C:\Users\Aleksandr Straton\source\repos\SQLImage\SQLImage\bin\Debug\SQLImage.exe
+C:\Users\Aleksandr Straton\source\repos\SQLImage\SQLImage\bin\Debug\SQLImage.pdb
+C:\Users\Aleksandr Straton\source\repos\SQLImage\SQLImage\obj\Debug\SQLImage.csproj.AssemblyReference.cache
+C:\Users\Aleksandr Straton\source\repos\SQLImage\SQLImage\obj\Debug\SQLImage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr Straton\source\repos\SQLImage\SQLImage\obj\Debug\SQLImage.Properties.Resources.resources
+C:\Users\Aleksandr Straton\source\repos\SQLImage\SQLImage\obj\Debug\SQLImage.SQLImage.resources
+C:\Users\Aleksandr Straton\source\repos\SQLImage\SQLImage\obj\Debug\SQLImage.csproj.GenerateResource.cache
+C:\Users\Aleksandr Straton\source\repos\SQLImage\SQLImage\obj\Debug\SQLImage.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr Straton\source\repos\SQLImage\SQLImage\obj\Debug\SQLImage.exe
+C:\Users\Aleksandr Straton\source\repos\SQLImage\SQLImage\obj\Debug\SQLImage.pdb
