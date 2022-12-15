@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLImage", "SQLImage\SQLImage.csproj", "{ADD6A268-ACF3-41F8-B986-D9E8DD5B8488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD6A268-ACF3-41F8-B986-D9E8DD5B8488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD6A268-ACF3-41F8-B986-D9E8DD5B8488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD6A268-ACF3-41F8-B986-D9E8DD5B8488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD6A268-ACF3-41F8-B986-D9E8DD5B8488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5839FCAF-7888-4C8C-B130-6CBA6402BA3C}
+	EndGlobalSection
+EndGlobal
